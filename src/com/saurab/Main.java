@@ -1,3 +1,4 @@
+// program using switch to check day
 package com.saurab;
 import java.util.Scanner;
 public class Main {
