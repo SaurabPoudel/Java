@@ -10,7 +10,7 @@ public class BinarySearch {
     // return the index
     // return -1 if element doesn't exist
     static int binarySearch(int[] arr,int target){
-        int start = 30;
+        int start = 0;
         int end = arr.length -1;
         while(start <= end){
             // find the middle element
