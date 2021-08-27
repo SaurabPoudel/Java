@@ -8,7 +8,6 @@ public class Floor {
         System.out.println(ans);
     }
     // return the index
-    // return -1 if element doesn't exist
     static int floor(int[] arr,int target){
         int start = 0;
         int end = arr.length -1;
