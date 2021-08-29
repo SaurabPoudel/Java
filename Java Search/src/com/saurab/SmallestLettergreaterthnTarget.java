@@ -1,5 +1,5 @@
 package com.saurab;
-// leetcode problem no 744 solution 
+// leetcode problem no 744 solution
 //leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/
 public class SmallestLettergreaterthnTarget {
     public  static void main(String[] args) {
