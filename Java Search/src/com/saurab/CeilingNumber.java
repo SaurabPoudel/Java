@@ -8,7 +8,7 @@ public class CeilingNumber {
         System.out.println(ans);
     }
     // return the index
-    
+
     static int ceiling(int[] arr,int target){
         int start = 0;
         int end = arr.length -1;
