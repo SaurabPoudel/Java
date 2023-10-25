@@ -4,7 +4,7 @@ public class TwoSumBrute {
 
   public static boolean TwoSum(int []a, int targetSum) {
     for (int i = 0; i < a.length; i++) {
-      for(int j =0; j<a.length;j++){
+      for(int j =i+1; j<a.length;j++){
         if(i == j) continue;
         if(a[i] + a[j] == targetSum) return true;
       }
